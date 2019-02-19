@@ -32,10 +32,9 @@ body{
   border: 25px solid red;
   position: absolute;
   top: 75%;
-  left: 60%;
+  left: 68%;
 }
 
 .batteryImage{
   position: absolute;
-  top: 20%;
 }
