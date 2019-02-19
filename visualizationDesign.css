@@ -22,6 +22,8 @@ body{
   text-align: center;
   width: 500px;
   border: 25px solid green;
+  position: absolute;
+  top: 40%;
 }
 
 .badText{
