@@ -8,8 +8,9 @@ h1{
 .intro{
   text-align: center;
   width: 500px;
-  height: 200px;
   border: 25px solid green;
+  position: absolute;
+  left: 50%;
 
 }
 
