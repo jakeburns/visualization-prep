@@ -30,6 +30,9 @@ body{
   text-align: center;
   width: 500px;
   border: 25px solid red;
+  position: absolute;
+  top: 75%;
+  left: 80%;
 }
 
 .batteryImage{
