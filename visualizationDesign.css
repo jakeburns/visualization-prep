@@ -23,3 +23,9 @@ body{
   width: 500px;
   border: 25px solid green;
 }
+
+.badText{
+  text-align: center;
+  width: 500px;
+  border: 25px solid red;
+}
