@@ -7,14 +7,15 @@ h1{
 
 .intro{
   text-align: center;
-  width: 300px;
   border: 25px solid green;
-  padding: 25px;
-  margin: 25px
-  position: absolute;
-  left: 500px;
+
 }
 
 body{
   background: #8eb7f9;
+}
+
+.batteryText{
+  text-align: center;
+  border: 25px solid green;
 }
